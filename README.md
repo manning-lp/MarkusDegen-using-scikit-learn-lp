@@ -1,2 +1,2 @@
-# using-scikit-learn-and-pyod-lp-author
-Repository for liveProject: Using scikit-learn and PyOD
+# using-scikit-learn-lp-author
+Repository for liveProject: Using scikit-learn
